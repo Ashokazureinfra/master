@@ -14,7 +14,7 @@ terraform {
 
 }
 
-# Configure Microsoft Azure Provider
+# Configure Microsoft the ashok Azure Provider
 provider "azurerm" {
       features {}
 }
